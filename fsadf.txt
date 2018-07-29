@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 okokok
+=======
+quyen
+>>>>>>> 2b35280270f78662fa0ec12f65fecc2f2d49f5ff
